@@ -15,7 +15,7 @@
 * Knowledge in basic web packages (HTML, CSS, JS)
 * C++ handling liberias like SFML
 
-## *I am learning:
+## *I am learning:*
 * Javascript and its corresponding frameworks React and Angular
 * PHP
 * Development of android applications
