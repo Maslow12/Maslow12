@@ -22,7 +22,7 @@
 * And whatever comes my way
 
 📫
-### __If you want to contact me, please do it through my Linkedin profile: https://www.linkedin.com/in/sebasti%C3%A1n-andres-yusti-gomez-393a03237/ 💬 Ask me about 
+### __If you want to contact me, please do it through my Linkedin profile: https://www.linkedin.com/in/sebasti%C3%A1n-andres-yusti-gomez-393a03237/__ 💬 Ask me about 
 <!--
 **Maslow12/Maslow12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
