@@ -14,9 +14,10 @@
 * In machine learning Keras and Tensorflow
 * Knowledge in basic web packages (HTML, CSS, JS)
 * C++ handling liberias like SFML
+* Front-End frameworks like Angular
+* Java and Kotlin 
 
 ## *I am learning:*
-* Javascript and its corresponding frameworks React and Angular
 * PHP
 * Development of android applications
 * And whatever comes my way
