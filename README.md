@@ -11,7 +11,7 @@
 
 * Python libraries such as numpy, pandas, matplotlib, seaborn and scikit-learn.
 * Backend development in Django and Django Rest Framework
-* Other Backend Frameworks like NodeJs
+* Other Backend Frameworks like Express.Js
 * Knowledge in server deployment
 * In machine learning Keras and Tensorflow
 * Knowledge in basic web packages (HTML, CSS, JS)
