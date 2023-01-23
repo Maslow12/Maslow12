@@ -4,13 +4,15 @@
 * Data analysis
 * Machine learning (convolutional networks and others)
 * Process automation
-* Web development
+* Web development (Backend and Frontend)
 * And other things coming from the future
 
 ## *I have knowledge in:*
 
 * Python libraries such as numpy, pandas, matplotlib, seaborn and scikit-learn.
 * Backend development in Django and Django Rest Framework
+* Other Backend Frameworks like NodeJs
+* Knowledge in server deployment
 * In machine learning Keras and Tensorflow
 * Knowledge in basic web packages (HTML, CSS, JS)
 * C++ handling liberias like SFML
