@@ -1,4 +1,4 @@
-# Hi i'm @Maslow12 ⚡
+# Hi I'm @Maslow12 ⚡
 
 ## *My interests are:*
 * Data analysis
